@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iskelo" alt="iskelo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/isk3lo" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/isk3lo?logo=twitter&style=for-the-badge" alt="https://twitter.com/isk3lo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/isk3lo" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/isk3lo?logo=twitter&style=for-the-badge" alt="https://twitter.com/isk3lo" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
